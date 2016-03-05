@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "jp.co.designMplus.berio.cordova.wsServerTest"
+        },
+        "cordova-plugin-websocket-server": {
+            "PACKAGE_NAME": "jp.co.designMplus.berio.cordova.wsServerTest"
+        },
+        "cordova-plugin-networkinterface": {
+            "PACKAGE_NAME": "jp.co.designMplus.berio.cordova.wsServerTest"
+        }
+    },
+    "dependent_plugins": {}
+}

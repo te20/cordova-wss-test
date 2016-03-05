@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+            timestampString = "478853345.828023"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "server(_:webSocketDidOpen:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Dead and Owned To Guaranteed, Arg[1] = Owned To Guaranteed&gt; of ws_server_test.WebSocketServer.server (ws_server_test.WebSocketServer)(__ObjC.PSWebSocketServer, webSocketDidOpen : __ObjC.PSWebSocket) -&gt; ()"
+                  moduleName = "ws-server-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tetsuo/devel/DMP/berio/cordova-ws-server-test/platforms/ios/ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+                  timestampString = "478853360.714424"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "2024">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Dead and Owned To Guaranteed, Arg[1] = Owned To Guaranteed&gt; of ws_server_test.WebSocketServer.server (ws_server_test.WebSocketServer)(__ObjC.PSWebSocketServer, webSocketDidOpen : __ObjC.PSWebSocket) -&gt; ()"
+                  moduleName = "ws-server-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tetsuo/devel/DMP/berio/cordova-ws-server-test/platforms/ios/ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+                  timestampString = "478853360.714716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+            timestampString = "478853623.70649"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "server(_:webSocketDidOpen:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+            timestampString = "478854154.575498"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "server(_:webSocketDidOpen:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Dead and Owned To Guaranteed, Arg[1] = Owned To Guaranteed&gt; of ws_server_test.WebSocketServer.server (ws_server_test.WebSocketServer)(__ObjC.PSWebSocketServer, webSocketDidOpen : __ObjC.PSWebSocket) -&gt; ()"
+                  moduleName = "ws-server-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tetsuo/devel/DMP/berio/cordova-ws-server-test/platforms/ios/ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+                  timestampString = "478854166.037828"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "2344">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Dead and Owned To Guaranteed, Arg[1] = Owned To Guaranteed&gt; of ws_server_test.WebSocketServer.server (ws_server_test.WebSocketServer)(__ObjC.PSWebSocketServer, webSocketDidOpen : __ObjC.PSWebSocket) -&gt; ()"
+                  moduleName = "ws-server-test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tetsuo/devel/DMP/berio/cordova-ws-server-test/platforms/ios/ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+                  timestampString = "478854166.037998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "2404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ws-server-test/Plugins/cordova-plugin-websocket-server/WebSocketServer.swift"
+            timestampString = "478854203.578833"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "server(_:webSocketDidOpen:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

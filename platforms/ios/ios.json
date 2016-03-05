@@ -1,0 +1,54 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"WebSocketServer\"><param name=\"ios-package\" value=\"WebSocketServer\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"networkinterface\"><param name=\"ios-package\" onload=\"true\" value=\"CDVNetworkInterface\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "jp.co.designMplus.berio.cordova.wsServerTest"
+        },
+        "cordova-plugin-websocket-server": {
+            "PACKAGE_NAME": "jp.co.designMplus.berio.cordova.wsServerTest"
+        },
+        "cordova-plugin-networkinterface": {
+            "PACKAGE_NAME": "jp.co.designMplus.berio.cordova.wsServerTest"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "file": "plugins/cordova-plugin-websocket-server/www/wsserver.js",
+            "id": "cordova-plugin-websocket-server.WebSocketServer",
+            "pluginId": "cordova-plugin-websocket-server",
+            "clobbers": [
+                "cordova.plugins.wsserver"
+            ]
+        },
+        {
+            "file": "plugins/cordova-plugin-networkinterface/www/networkinterface.js",
+            "id": "cordova-plugin-networkinterface.networkinterface",
+            "pluginId": "cordova-plugin-networkinterface",
+            "clobbers": [
+                "window.networkinterface"
+            ]
+        }
+    ]
+}
